@@ -4,7 +4,7 @@ Travis Kelce & Taylor Swift Wrangling Project
 # Description 
 This project analyzes Travis Kelce’s performance through the lens of Taylor Swift using R. We want to see how Taylor Swift and their relationship has motivated or changed Kelce’s performance. We also want to see how the Chief’s attendance at Arrowhead has changed when she is in attendance.  
 
-We scraped and colleceted data from Pro Football reference, ESPN, and People Magazine to obtain statistics on Kelce, game attendance and the progression of Taylor and Travis's relationship. We then combined all this data together using horizontal and vertical merging to get one final file. 
+We scraped and collected data from Pro Football reference, ESPN, and People Magazine to obtain statistics on Kelce, game attendance and the progression of Taylor and Travis's relationship. We then combined all this data together using horizontal and vertical merging to get one final file. 
 
 We then used base R and ggplot to build visualizations to portray Kelce's performance while dating Taylor vs not dating her, his performance with her in attendance vs not in attendance, and Arrowhead stadium attendance when Taylor was there vs when she was not. 
 
